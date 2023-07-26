@@ -1,11 +1,11 @@
-# Indian-Flight-Fare-Prediction
+# Flights-Fare-Prediction
 
 
 ##### Author: Syed Mohammad Afraim
 
 ##### Date: 26th July, 2023
 
-##### [Kaggle](https://www.kaggle.com/code/syedmohammadafraim2/flight-fare-prediction)
+##### [Kaggle Link](https://www.kaggle.com/code/syedmohammadafraim2/flight-fare-prediction)
 
 # 1. Summary <a name="summary_1"></a>
 This project aims to predict flight fares based on various features such as departure date and time, arrival date and time, total stops, airline, source, and destination. The prediction model is built using a RandomForestRegressor algorithm.
